@@ -35,6 +35,7 @@ a:hover {
   padding:30px;
   border-radius:8px;
   box-shadow: 0 10px 30px rgba(0,0,0,.1);
+  margin-bottom: 10px;
 }
 
 #profilepic {
@@ -46,7 +47,7 @@ a:hover {
   padding: 0px 20px;
 }
 
-.list.inline {
+.list-inline {
   list-style: none;
   padding-left: 0px;
 }
